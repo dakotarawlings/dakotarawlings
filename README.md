@@ -1,5 +1,5 @@
 
-<table align="center">
+<table >
 <tr>
 <th> <a href="https://github.com/dakotarawlings/tool_image_classification">Tool image classifier</a></th>
 <th> <a href="https://github.com/dakotarawlings/SantaBarbara_house_price_prediction">Local realestate market analysis</a> </th>
@@ -8,8 +8,8 @@
 <td>
 
 <p float ="left" align="center" >
-  <img style="padding-right: 100px;" src="readme_images/homepagetool.png" height="150" >
-  <img style="padding-left: 100px;" src="readme_images/iphone.gif" height="150" >
+  <img style="padding-right: 100px;" src="readme_images/homepagetool.png" height="120" >
+  <img style="padding-left: 100px;" src="readme_images/iphone.gif" height="120" >
   <br>
   <em> https://tool-image-classifier.herokuapp.com/</em>
   </br>
@@ -25,8 +25,8 @@
 <td>
 
 <p float ="left" align="center" >
-  <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="150" >
-  <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="150" >
+  <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="120" >
+  <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="120" >
   <br>
   <em> https://sb-house-price-prediction.herokuapp.com/</em>
   </br>
@@ -47,25 +47,24 @@
 <td>
 
   <p float ="left" align="center" >
-  <img style="padding-right: 100px;" src="readme_images/DLLHomepage.gif" height="150" >|
+  <img style="padding-right: 100px;" src="readme_images/DLLHomepage.gif" height="150" >
   
   <br>
-  <em> https://number-recognition-app.herokuapp.com/</em>
+  <em> https://number-recognition-app.herokuapp.com/ </em>
   </br>
 </p>
 
 * Wrote a feed forward neural network model-building library from scratch in C++
 * Used pibind11 to build a wrapper for the C++ library to create a python DLL 
 * Used library to to build and train FFNN model on MNIST DB
-* Built a charachter identifier webapp from scratch in python, flask, javascript, html, and css
-* Deployed web app on Heroku: https://number-recognition-app.herokuapp.com/
+* Flask API endpoint and full stack web application 
   
 
 </td>
 <td>
 
 <p float ="left" align="center" >
-  <img style="padding-right: 100px;" src="readme_images/timeseries.png" height="150" >|
+  <img style="padding-right: 100px;" src="readme_images/timeseries.png" height="150" >
   <br>
   <em> </em>
   </br>
