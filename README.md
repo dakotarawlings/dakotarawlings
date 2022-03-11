@@ -25,8 +25,8 @@
 <td>
 
 <p float ="left" align="center" >
-  <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="120" >
-  <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="120" >
+  <span> <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="120" >
+    <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="120" ></span>
   <br>
   <em> https://sb-house-price-prediction.herokuapp.com/</em>
   </br>
