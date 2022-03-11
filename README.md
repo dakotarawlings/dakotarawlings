@@ -57,7 +57,7 @@
 
 * Wrote a feed forward neural network model-building library from scratch in C++
 * Used pibind11 to build a wrapper for the C++ library to create a python DLL 
-* Used library to to build and train FFNN model on MNIST DB
+* Used library to to build/train FFNN model on MNIST DB
 * Built flask API endpoint and full stack web application 
   
 
