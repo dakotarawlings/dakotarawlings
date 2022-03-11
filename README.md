@@ -1,4 +1,4 @@
-
+<h3 align="center"> Highlighted Projects </h3>
 <table >
 <tr>
 <th> <a href="https://github.com/dakotarawlings/tool_image_classification">Tool image classifier</a></th>
