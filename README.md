@@ -32,10 +32,11 @@
   </br>
 </p>
 
-* Scraped data from ~1500 trulia.com past listings. Created SQL DB
-* Scaling, normalization, one hot encoding, KNN imp., NLP
-* Lnear, lasso, random forest, LightGBM, Catboost, and XGboost models
-* Flask API endpoint and full stack web application 
+* Scraped data from ~1500 trulia.com past listings
+* Created SQL DB with listing data
+* Data: scaling, normalization, encoding, KNN imp., NLP
+* Tested/optimized: linear, lasso, random forest, LightGBM, Catboost, and XGboost models
+* Built flask API endpoint and full stack web application 
 
 </td>
 </tr>
@@ -57,7 +58,7 @@
 * Wrote a feed forward neural network model-building library from scratch in C++
 * Used pibind11 to build a wrapper for the C++ library to create a python DLL 
 * Used library to to build and train FFNN model on MNIST DB
-* Flask API endpoint and full stack web application 
+* Built flask API endpoint and full stack web application 
   
 
 </td>
@@ -73,7 +74,7 @@
 * Ongoing timeseries project
 * Live webscraper for realtime local weather data
 * Hybrid model to predict future weather parameters
-* live weather prediction webapp
+* Built live weather prediction webapp
 
 
 
