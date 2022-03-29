@@ -67,7 +67,7 @@
 <p float ="left" align="center" >
   <img style="padding-right: 100px;" src="readme_images/timeseries.png" height="150" >
   <br>
-  <em> </em>
+  <em> http://weatherwebapp.us-west-1.elasticbeanstalk.com/ </em>
   </br>
 </p>
 
