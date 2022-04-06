@@ -72,9 +72,10 @@
 </p>
 
 * Ongoing timeseries project
-* Live webscraper for realtime local weather data
-* Hybrid model to predict future weather parameters
-* Built live weather prediction webapp
+* Scrape live timeseries weather data from NOAA
+* lag features, fourier features, seasonal indicators, feature scaling
+* Built a boosted hybrid model
+* Deployed model in a full stack weather forecasting app on AWS
 
 
 
