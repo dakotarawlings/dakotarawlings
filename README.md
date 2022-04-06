@@ -73,9 +73,9 @@
 
 * Ongoing timeseries project
 * Scrape live timeseries weather data from NOAA
-* lag features, fourier features, seasonal indicators, feature scaling
+* Implemented lag features, fourier features, seasonal indicators
 * Built a boosted hybrid model
-* Deployed model in a full stack weather forecasting app on AWS
+* Full stack weather forecasting app on AWS
 
 
 
