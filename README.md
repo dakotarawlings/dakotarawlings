@@ -2,7 +2,7 @@
 <table >
 <tr>
 <th> <a href="https://github.com/dakotarawlings/tool_image_classification">Tool image classifier</a></th>
-<th> <a href="https://github.com/dakotarawlings/SantaBarbara_house_price_prediction">Local realestate market analysis</a> </th>
+<th> <a href="http://ec2-3-101-66-168.us-west-1.compute.amazonaws.com/">Local realestate market analysis</a> </th>
 </tr>
 <tr>
 <td>
@@ -36,7 +36,7 @@
 * Created SQL DB with listing data
 * Data: scaling, normalization, encoding, KNN imp., NLP
 * Tested/optimized: linear, lasso, random forest, LightGBM, Catboost, and XGboost models
-* Built flask API endpoint and full stack web application 
+* Built flask API and full stack web application (deployed via AWS EC2)
 
 </td>
 </tr>
