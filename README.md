@@ -2,7 +2,7 @@
 <table >
 <tr>
 <th> <a href="https://github.com/dakotarawlings/tool_image_classification">Tool image classifier</a></th>
-<th> <a href="http://ec2-3-101-66-168.us-west-1.compute.amazonaws.com/">Local realestate market analysis</a> </th>
+<th> <a href="https://github.com/dakotarawlings/local_realestate_market_analysis">Local realestate market analysis</a> </th>
 </tr>
 <tr>
 <td>
@@ -28,7 +28,7 @@
    <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="120" >
     <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="100" >
   <br>
-  <em> https://sb-house-price-prediction.herokuapp.com/</em>
+  <em> http://ec2-3-101-66-168.us-west-1.compute.amazonaws.com/</em>
   </br>
 </p>
 
