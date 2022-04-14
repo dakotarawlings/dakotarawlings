@@ -36,7 +36,7 @@
 * Created SQL DB with listing data
 * Data: scaling, normalization, encoding, KNN imp., NLP
 * Tested/optimized: linear, lasso, random forest, LightGBM, Catboost, and XGboost models
-* Built flask API and full stack web application (deployed via AWS EC2)
+* Built flask API and full stack web application (deployed on AWS EC2)
 
 </td>
 </tr>
