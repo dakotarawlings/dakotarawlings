@@ -28,7 +28,7 @@
    <img style="padding-right: 100px;" src="readme_images/homepage2.png" height="120" >
     <img style="padding-left: 100px;" src="readme_images/boxplots.png" height="100" >
   <br>
-  <em> http://ec2-3-101-66-168.us-west-1.compute.amazonaws.com/</em>
+  <em> http://ec2-54-151-126-133.us-west-1.compute.amazonaws.com/</em>
   </br>
 </p>
 
