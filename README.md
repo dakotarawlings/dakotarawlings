@@ -71,11 +71,11 @@
   </br>
 </p>
 
-* Ongoing timeseries project
+* (In Progress) timeseries project
 * Scrape live timeseries weather data from NOAA
 * Implemented lag features, fourier features, seasonal indicators
 * Built a boosted hybrid model
-* Full stack weather forecasting app on AWS
+* Full stack weather dashboard/forecasting app on AWS
 
 
 
