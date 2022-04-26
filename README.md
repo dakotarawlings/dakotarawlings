@@ -42,7 +42,7 @@
 </tr>
   <tr>
 <th> <a href="https://github.com/dakotarawlings/cpp_deep_learning_library">Deep learning library in C++ </th>
-<th> <a href="https://github.com/dakotarawlings/weather_prediction">Live weather prediction </th>
+<th> <a href="https://github.com/dakotarawlings/weather_prediction">Weather Timeseries Analysis </th>
 </tr>
 <tr>
 <td>
